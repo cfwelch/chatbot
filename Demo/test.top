@@ -1,0 +1,22 @@
+r:(hello) Hi!|Hello|How are you doing?
+
+g:Whats up?
+	r:(nothing) cool
+	r:(nothing much) same here
+	
+g:Chat bots are cool!
+
+r:(i like *) me too!
+
+g:what is your favorite color
+	r:(blue) nice!
+	r:(green) green is okay.
+	r:(red) Red is my favorite color too!
+
+r:(*dinosaur*) Dinosaurs are the coolest thing ever
+
+g:Do you like chatbots?
+	r:(yes) That's understandable. They're pretty cool.
+	r:(no) Why not?!
+		r:(* boring) They are not boring!
+		r:(* not as cool as robots *) That's a good point...
